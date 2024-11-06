@@ -9,7 +9,7 @@ CREATE TABLE Books (
     year int(4)
 );
 
-CREATE TABLE farms (
+CREATE TABLE farm (
     id int AUTO_INCREMENT PRIMARY KEY,
     name varchar(255),
     description varchar(255),    
